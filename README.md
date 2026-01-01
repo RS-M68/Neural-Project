@@ -75,5 +75,3 @@ handwritten-htr-bench/
 
 ---
 
-## License
-MIT
